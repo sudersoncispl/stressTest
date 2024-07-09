@@ -1,4 +1,4 @@
-Need to install the loadtest globally, for the run the below command:
+Need to install the loadtest globally, run following command to install intalls loadtest globally.
     sudo npm install -g loadtest
 
 Then need to start the load test server, run the below command:
