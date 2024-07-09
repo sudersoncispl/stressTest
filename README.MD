@@ -1,4 +1,4 @@
-Need to install the loadtest globally, run following command to install intalls loadtest globally.
+Need to install loadtest globally, run following command to install loadtest globally.
     sudo npm install -g loadtest
 
 Then need to start the load test server, run the below command:
@@ -9,3 +9,5 @@ Once the server started, now its ready to test any url, Example:
 
 Basic syntax:
     loadtest [-n requests] [-c concurrency] [-k] URL
+
+For complete reference visit: https://www.npmjs.com/package/loadtest
